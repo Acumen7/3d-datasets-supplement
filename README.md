@@ -13,6 +13,11 @@ This repository contains supplementary materials for common 3D datasets.
 
 Pix3D images & voxelized models: http://pix3d.csail.mit.edu/data/pix3d.zip
 
+To convert .obj files to .binvox files, please put pix3d, binvox and pix3d_obj2binvox.py in the same folder and run the following command:
+`python3 pix3d_obj2binvox.py`
+
+> Note: binvox file in this repository is suitable for MacOS, if you want to use it in Linux or Windows, please refer to the offical website: https://www.patrickmin.com/binvox/
+
 
 ## Pascal3D
 [Pix2Vox]These methods use Pascal3D.
