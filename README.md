@@ -23,4 +23,4 @@ To convert .obj files to .binvox files, please put pix3d, binvox and pix3d_obj2b
 [Pix2Vox]These methods use Pascal3D.
 
 - Pascal3D[Release 1.0]: ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+_release1.0.zip
-- Pascal3D[Release 1.0]: ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+_release1.1.zip
+- Pascal3D[Release 1.1]: ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+_release1.1.zip
